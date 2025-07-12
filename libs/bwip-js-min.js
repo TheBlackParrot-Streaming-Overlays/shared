@@ -1,0 +1,1 @@
+../submodules/bwip-js/dist/bwip-js-min.js

@@ -1,0 +1,27 @@
+[submodule "submodules/bwip-js"]
+	path = submodules/bwip-js
+	url = https://github.com/metafloor/bwip-js.git
+[submodule "submodules/coloris"]
+	path = submodules/coloris
+	url = https://github.com/mdbassit/Coloris.git
+[submodule "submodules/fancyselect"]
+	path = submodules/fancyselect
+	url = https://github.com/mdbassit/FancySelect.git
+[submodule "submodules/jquery.marquee"]
+	path = submodules/jquery.marquee
+	url = https://github.com/aamirafridi/jQuery.Marquee.git
+[submodule "submodules/jquery.waitforimages"]
+	path = submodules/jquery.waitforimages
+	url = https://github.com/alexanderdickson/waitForImages.git
+[submodule "submodules/socket.io"]
+	path = submodules/socket.io
+	url = https://github.com/socketio/socket.io.git
+[submodule "submodules/tmi"]
+	path = submodules/tmi
+	url = https://github.com/tmijs/tmi.js.git
+[submodule "submodules/fontawesome"]
+	path = submodules/fontawesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "submodules/twemoji"]
+	path = submodules/twemoji
+	url = https://github.com/jdecked/twemoji.git

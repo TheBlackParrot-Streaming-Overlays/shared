@@ -1,0 +1,35 @@
+{
+	"Manrope": {
+		"100": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"200": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"300": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"400": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"500": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"600": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"700": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"800": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"900": {
+			"normal": "Manrope-VariableFont_wght.ttf"
+		},
+		"allowed": {
+			"names": true,
+			"messages": true
+		}
+	}
+}
